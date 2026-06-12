@@ -1,7 +1,7 @@
 url: https://fashionunited.nl
-status: up
-code: 200
-responseTime: 140
-lastUpdated: 2026-06-11T23:35:22.263Z
+status: down
+code: 500
+responseTime: 3306
+lastUpdated: 2026-06-12T08:46:01.790Z
 startTime: 2023-09-27T13:32:55.122Z
 generator: Upptime <https://github.com/upptime/upptime>
