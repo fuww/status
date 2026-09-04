@@ -1462,23 +1462,23 @@
     "url": "https://fashionunited.tv",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.tv.ico",
     "slug": "fashionunited-tv",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
-    "time": 375,
-    "timeDay": 77,
-    "timeWeek": 338,
-    "timeMonth": 458,
+    "time": 376,
+    "timeDay": 168,
+    "timeWeek": 328,
+    "timeMonth": 452,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2026-03-17": 22,
       "2026-06-12": 82,
       "2026-06-20": 17,
       "2026-06-22": 79,
-      "2026-09-04": 2
+      "2026-09-04": 5
     }
   },
   {
