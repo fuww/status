@@ -1198,23 +1198,23 @@
     "url": "https://fashionunited.jp",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.jp.ico",
     "slug": "fashionunited-jp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "96.89%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.72%",
-    "time": 386,
-    "timeDay": 174,
-    "timeWeek": 191,
-    "timeMonth": 261,
+    "time": 387,
+    "timeDay": 290,
+    "timeWeek": 227,
+    "timeMonth": 269,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2026-03-17": 22,
       "2026-06-12": 84,
       "2026-09-16": 516,
       "2026-09-15": 845,
-      "2026-09-30": 2
+      "2026-09-30": 9
     }
   },
   {
