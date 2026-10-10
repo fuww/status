@@ -772,22 +772,22 @@
     "url": "https://ru.fashionunited.com",
     "icon": "https://icons.duckduckgo.com/ip3/ru.fashionunited.com.ico",
     "slug": "ru-fashionunited-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
-    "time": 370,
-    "timeDay": 3180,
-    "timeWeek": 892,
-    "timeMonth": 485,
-    "timeYear": 370,
+    "time": 371,
+    "timeDay": 2296,
+    "timeWeek": 855,
+    "timeMonth": 486,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2026-03-17": 22,
       "2026-06-12": 166,
       "2026-06-20": 25,
-      "2026-10-10": 3
+      "2026-10-10": 6
     }
   },
   {
