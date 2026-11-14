@@ -689,24 +689,24 @@
     "url": "https://fashionunited.com",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.com.ico",
     "slug": "fashionunited-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.71%",
     "time": 234,
-    "timeDay": 163,
-    "timeWeek": 240,
-    "timeMonth": 207,
-    "timeYear": 252,
+    "timeDay": 173,
+    "timeWeek": 233,
+    "timeMonth": 206,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2026-03-17": 22,
       "2026-06-12": 80,
       "2026-06-20": 36,
       "2026-09-16": 516,
       "2026-09-15": 850,
-      "2026-11-14": 1
+      "2026-11-14": 5
     }
   },
   {
