@@ -1269,21 +1269,21 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 229,
-    "timeWeek": 153,
-    "timeMonth": 118,
+    "timeDay": 201,
+    "timeWeek": 148,
+    "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-13": 24,
       "2025-12-23": 18,
-      "2026-11-15": 2
+      "2026-11-15": 5
     }
   },
   {
